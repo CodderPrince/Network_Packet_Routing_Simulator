@@ -1,7 +1,7 @@
 # Network Packet Routing Simulator 🚦📡
 ---
 
-````markdown
+
 **A comprehensive Network Packet Routing Simulator featuring both C++ and Python implementations of Dijkstra’s shortest path algorithm with interactive and animated visualizations.**
 
 ---
@@ -71,7 +71,7 @@ This project demonstrates the shortest path routing in a network using Dijkstra�
 
 ```bash
 g++ -o dijkstra dijkstra.cpp
-````
+
 
 2. Run the executable:
 
