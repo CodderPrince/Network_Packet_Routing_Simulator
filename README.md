@@ -69,13 +69,13 @@ This project demonstrates the shortest path routing in a network using Dijkstraâ
 
 1. Compile the source:
 
-```bash
+```
 g++ -o dijkstra dijkstra.cpp
-
+```
 
 2. Run the executable:
 
-```bash
+```
 ./dijkstra
 ```
 
@@ -87,19 +87,20 @@ g++ -o dijkstra dijkstra.cpp
 
 1. Run the Python script (requires Python 3):
 
-```bash
+```
 python network_simulator.py
 ```
 
 2. Use the GUI to enter graph nodes, edges, weights, source, and destination.
 
+```
 3. Visualize the animated shortest path packet routing.
-
+```
 ---
 
 ## ðŸ“– Sample Input Format (C++ and Python)
 
-```
+
 7 10
 1 2 3
 1 3 1
