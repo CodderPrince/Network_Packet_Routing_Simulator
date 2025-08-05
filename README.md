@@ -93,9 +93,8 @@ python network_simulator.py
 
 2. Use the GUI to enter graph nodes, edges, weights, source, and destination.
 
-```
 3. Visualize the animated shortest path packet routing.
-```
+
 ---
 
 ## 📖 Sample Input Format (C++ and Python)
