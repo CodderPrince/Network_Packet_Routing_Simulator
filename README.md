@@ -99,7 +99,7 @@ python network_simulator.py
 
 ## 📖 Sample Input Format (C++ and Python)
 
-
+```
 7 10
 1 2 3
 1 3 1
